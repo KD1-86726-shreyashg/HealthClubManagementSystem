@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+2025-01-27 11:47:17,422 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-27 11:48:09,262 [Worker-12: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project BackendApp already exists
+2025-01-27 11:48:09,277 [Worker-12: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-01-27 11:54:13,254 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-27 11:55:00,672 [Worker-14: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project BackendApp already exists
+2025-01-27 11:55:00,992 [Worker-14: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-01-27 11:57:22,444 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-27 12:12:28,455 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-01-27 12:12:48,365 [Worker-5: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project BackendApp already exists
+2025-01-27 12:12:48,386 [Worker-5: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-01-27 12:13:12,043 [Worker-11: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project BackendApp already exists
+2025-01-27 12:13:12,045 [Worker-11: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-01-27 12:13:27,264 [Worker-8: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring_boot_backend_template:0.0.1-SNAPSHOT @ D:\HealthClubManagementSystem\Backend\BackendApp\pom.xml.
+2025-01-27 12:13:29,777 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring_boot_backend_template:0.0.1-SNAPSHOT @ D:\HealthClubManagementSystem\Backend\BackendApp\pom.xml.
+2025-01-27 12:13:32,772 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-01-27 12:13:32,809 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-01-27 12:13:32,822 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\HealthClubManagementSystem\Backend\BackendApp\src\test\resources
+2025-01-27 12:13:38,148 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring_boot_backend_template:0.0.1-SNAPSHOT @ D:\HealthClubManagementSystem\Backend\BackendApp\pom.xml.
+=======
 2025-01-27 11:17:19,394 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
 2025-01-27 11:19:59,124 [Worker-7: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:spring_boot_backend_template:0.0.1-SNAPSHOT @ D:\DAC\Project_GitData\HealthClubManagementSystem\Backend\spring_boot_backend_template\pom.xml.
 2025-01-27 11:20:01,430 [Worker-7: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring_boot_backend_template/src/main/java
@@ -51,3 +71,4 @@
 2025-01-27 12:09:57,637 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-01-27 12:09:57,643 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-01-27 12:09:57,646 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\DAC\Project_GitData\HealthClubManagementSystem\Backend\BackendApp\src\test\resources
+>>>>>>> 22d4874691b691a272f774bfaad9a6267200e770
