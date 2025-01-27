@@ -2,7 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+<<<<<<< HEAD
 			<item value="D:\HealthClubManagementSystem\Backend\BackendApp"/>
+=======
+			<item value="D:\DAC\Project_GitData\HealthClubManagementSystem\Backend\spring_boot_backend_template"/>
+>>>>>>> 22d4874691b691a272f774bfaad9a6267200e770
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
